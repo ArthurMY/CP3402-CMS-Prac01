@@ -1,1 +1,0 @@
-This is the week 1 practical for CP3402.
